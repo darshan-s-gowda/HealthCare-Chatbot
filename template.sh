@@ -8,6 +8,6 @@ touch .env
 touch app.py
 touch research/trials.ipynb
 touch requirements.txt
-
+touch setup.py
 
 echo "directory and files created successfully"
